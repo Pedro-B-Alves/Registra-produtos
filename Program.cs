@@ -44,6 +44,20 @@ namespace Registra_produtos
             foreach (Produto p in produtos){
                 Console.WriteLine($" {p.Nome} - R$ {p.Preco} ");
             }
+
+            List<Cartao> cartoes = new List<Cartao>();
+
+            Console.WriteLine("\nCartões: ");
+
+            cartoes.Add(new Cartao("Alan", 5261400319746371, "Mastercard", DateTime.Now.AddDays(10), 641));
+            cartoes.Add(new Cartao("Julia", 4929145634524261, "VISA", DateTime.Now.AddDays(12), 473));
+            cartoes.Add(new Cartao("Jorge", 371266379815580, "AMEX", DateTime.Now.AddDays(15), 1902));
+            cartoes.Add(new Cartao("Ana", 214926329503047, "Enroute", DateTime.Now.AddDays(12), 650));
+            cartoes.Add(new Cartao("Beatriz", 869914287792073, "Voyager", DateTime.Now.AddDays(10), 178));
+
+            foreach (Cartao c in cartoes){
+                Console.WriteLine($"Titular: {c.Titular} - Número: {c.Numero} - Bandeira: {c.Bandeira} - Vencimento: {c.Vencimento} - CVV: {c.Cvv}");
+            }
         }
     }
 }

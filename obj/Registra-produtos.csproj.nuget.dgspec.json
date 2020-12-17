@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\Registra-produtos\\Registra-produtos.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Registra-produtos\\Registra-produtos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\Registra-produtos\\Registra-produtos.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Registra-produtos\\Registra-produtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\Registra-produtos\\Registra-produtos.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Registra-produtos\\Registra-produtos.csproj",
         "projectName": "Registra-produtos",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\Registra-produtos\\Registra-produtos.csproj",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Registra-produtos\\Registra-produtos.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\C#\\Registra-produtos\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\Registra-produtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
